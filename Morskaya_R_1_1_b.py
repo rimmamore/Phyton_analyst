@@ -1,4 +1,5 @@
 
+
 lst_duration = [53, 153, 4153]
 for num in lst_duration:
   if num<60:
