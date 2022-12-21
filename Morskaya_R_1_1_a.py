@@ -1,4 +1,5 @@
 
+
 num = int(input("Введите число "))
 if num<60:
   print(num,'сек')
