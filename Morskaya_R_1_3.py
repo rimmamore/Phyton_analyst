@@ -1,4 +1,5 @@
 
+
 for i in range(1,101):
   if i == 1 or i%10 == 1 and i > 11:
     print(i, 'процент')
